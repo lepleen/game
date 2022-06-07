@@ -1,2 +1,0 @@
-# lepleen.io
-Personal profile
