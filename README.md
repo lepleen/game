@@ -1,4 +1,4 @@
 # lepleen.io
 Personal profile
-https://github.com/lepleen/game/
+https://lepleen.github.io/game/
 Em atualizacao....
